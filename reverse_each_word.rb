@@ -1,2 +1,2 @@
-def reverse_each_word(Hello)
+def reverse_each_word(string)
   
