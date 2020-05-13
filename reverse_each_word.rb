@@ -15,5 +15,7 @@ def reverse_each_word(string)
   end
   test_array.join(" ")
   
-endreverse_each_word("Hello there, and how are you?")
+end
+
+reverse_each_word("Hello there, and how are you?")
 
